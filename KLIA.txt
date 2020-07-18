@@ -1,0 +1,264 @@
+Jakarta
+Ridha
+A18CS0254
+KTDI
+Gelora Bung Karno
+59120
+Palembang
+Non-Vegetarian
+Hong Kong
+Chong Ching
+A18CS0254
+KTF
+Eddie Street
+54551
+China
+Non-Vegetarian
+Livia
+Admond
+A18CS4144
+K9&K10
+Halo Street
+35111
+Letveria
+Vegetarian
+Tokyo
+Kurenai
+A18CS7822
+KP
+Tomoru 
+98554
+Japan
+Non-Vegetarian
+NYC
+James
+A18CS9980
+KDSE
+Eddie Street
+54511
+USA
+Non-Vegetarian
+Resdhai
+Bunggal
+A18CB5224
+KTC
+Gel Hare 
+47120
+India
+Vegetarian
+Jakarta
+Muhammad Alvin
+A18CS0523
+KTR
+Jalan Indonesia
+89027
+Palembang
+Non-Vegetarian
+Hainan
+Leow Yeong Hew
+A18CS0746
+KDSE
+Chang Wang
+65290
+China 
+Vegetarian
+Karnataka
+Anika
+A18SC8353
+KTF
+Kimpai
+625420
+India
+Non-Vegetarian
+Kyoto
+Natsu
+A17KT9370
+KRP
+Iwate
+Japan
+Non-Vegetarian
+Aceh
+Alvin
+A18CS9504
+KTR
+Ubud
+Indonesia
+Non-Vegetarian
+Yunnan
+Pua Liang Lew
+A16BS0654
+K9&K10
+Miang Hew
+75280
+China 
+Non-Vegetarian
+Hawaii
+Jaiden
+A18KT273
+KP
+Resmandai
+72830
+United States
+Non-Vegetarian
+Saitama
+Miku
+A18CS8570
+KTF
+Aichi
+Japan
+Non-Vegetarian
+Tamil Nadu
+Ishana
+A18SC8262
+KRP
+Wrina
+76370
+India
+Non-Vegetarian
+Guangdong Province
+Kang Mei Hui
+A19KT2410
+KP
+Takmeng
+64680
+China 
+Non-Vegetarian
+Hubei
+Chin Wong Hei
+A17KT8760
+KRP
+Meng Hong
+75270
+China
+Non-vegetarian
+Arizona
+James
+A18CS9263
+KRP
+Malsiz
+73920
+United States
+Non-Vegetarian
+Osaka
+Genos
+A16CS0465
+KTF
+Fukui
+Japan
+Non-Vegetarian
+Kerala 
+Anaisha
+A18CS9806
+KTDI
+Mahdu
+74170
+India
+Non-Vegetarian
+Florida
+Max
+A17CS0484
+KDSE
+Thung Street
+United States
+Non-Vegetarian
+Gujarat
+Ananya
+A16SS9640
+KDSE
+Amia
+75330
+India
+Non-Vegetarian
+Ohio
+Lannan
+A19SC0364
+KTDI
+Miabi
+United States
+Non-Vegetarian
+Fujian
+Meng Hao Liao
+A18CS0543
+KTDI
+Kiang Ling
+82510
+China 
+Non-Vegetarian
+Osaka
+Hinata
+A18CS0133
+KDTI
+Shimane
+Japan
+Non-Vegetarian
+Tokyo
+Tokito Ohma
+A18CS0195
+KP
+Ibaraki
+Japan
+Non-Vegetarian
+Bihar
+Anushka
+A18CS0864
+KTDI
+Landai
+64680
+India
+Non-Vegetarian
+Texas
+Desmond
+A17CS9189
+KTDI
+Chicbro Street
+74920
+United States
+Vegetarian
+Papua
+Ashman
+A16KT6730
+KDSE
+Jalan Purnama
+53739
+Indonesia
+Non-Vegetarian
+Aceh
+Mohamed
+A17SC9403
+KRP
+Taman Maling
+52628
+Indonesia
+Non-Vegetarian
+Sumatera Barat
+John
+A18CS1232
+KP
+Lorong Makmur
+64520
+Indonesia
+Non-Vegetarian
+ Colombia City
+Jame Rodriguez
+A17CS0132
+KTHO
+La Street
+12345
+Colombia
+Vegetarian
+Seoul
+Kyuh Hyun
+A17CS0154
+KTHO
+Seoul Street
+12345
+South Korea
+Vegetarian
+Qatar City
+Muhammad Ali
+A17CS0124
+KDOJ
+Qatar Street
+12345
+Qatar
+Vegetarian
