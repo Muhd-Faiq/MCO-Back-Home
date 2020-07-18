@@ -1,0 +1,250 @@
+Muhammad Faiq
+A18CS0134
+KTDI
+Non-Vegetarian
+Muhammad Haziq
+A18CS0122
+KTHO
+Non-Vegetarian
+Muhammad Afiq Zaidin
+A18CS0127
+KTDI
+Vegetarian
+Muhammad Danial Hakimi
+A18CS0133
+KRP
+Non-Vegetarian
+Siti Amalina
+A18CS0123
+KTHO
+Non-Vegetarian
+Muhammad Muaz 
+A18CS0139
+KTDI
+Vegetarian
+Nuhammad Santho
+A18CS0352
+KTR
+Vegetarian
+Ahmad Haziq Azfar
+A17CS0127
+KRP
+Vegetarian
+Izammuddin Rusnan
+A17CS0124
+KP
+Non-Vegetarian
+Haziq Alias
+A17CS0136
+KTHO
+Non-Vegetarian
+Nur Izzati Aqilah
+A17CS0145
+KTF
+Non-Vegetarian
+Ilyas Kamarol
+A17CS0346
+KTC
+Non-Vegetarian
+Muhammad Soeharto
+A18CS0386
+K9&K10
+Vegetarian
+Muhhamad Al-Fateh
+A18CS0391
+KDSE
+Non-Vegetarian
+Kim Irene
+A16CS0309
+KDOJ
+Non-Vegetarian
+Muhammad Luqman
+A18CS0124
+KTDI
+Vegetarian
+Nur Alisya
+A17CS0298
+KTDI
+Vegetarian
+Nur Shahira
+A17CS0135
+KTF
+Vegetarian
+Lim Wei Han
+A18CS0198
+KTR
+Vegetarian
+Muhammad Fatah
+A17CS0321
+KTR
+Vegetarian
+Muhammad Afiq Murad
+A17CS0701
+KTR
+Vegetarian
+Ahmad Syauqi
+A18CS0222
+KTR
+Non-Vegetarian
+Muhammad Aiman
+A16CS0731
+KTR
+Non-Vegetarian
+Ahmad Hafiz
+A16CS0532
+KTR
+Non-Vegetarian
+Muhammad Qayyum
+A16CS0154
+KRP
+Vegetarian
+Muhammad Hariz
+A18CS0192
+KRP
+Non-Vegetarian
+Muhammad Malique
+A16CS0132
+KRP
+Vegetarian
+Muhammad Afrizal
+A16CS0121
+KRP
+Vegetarian
+Muhammad Iqri
+A16CS0120
+KRP
+Non-Vegetarian
+Muhammad Arif
+A16CS0341
+KRP
+Vegetarian
+Muhammad Arifuddin
+A16CS0567
+KP
+Vegetarian
+Ng Tzu Yu
+A18CS0390
+KP
+Non-Vegetarian
+Lee Chong Wei
+A16CS0925
+KP
+Vegetarian
+Muhammad Ridzwan
+A16CS0871
+KP
+Non-Vegetarian
+Ahmad Hazwan
+A16CS0124
+KP
+Non-Vegetarian
+Muhammad Kamal
+A16CS0921
+KP
+Non-Vegetarian
+Muhammad Rizqi
+A16CS0171
+KP
+Non-Vegetarian
+Muhammad Fariz
+A16CS0821
+KP
+Vegetarian
+Muhammad Adam
+A16CS0975
+KTHO
+Non-Vegetarian
+Siti Fatimah
+A16CS0413
+KTF
+Vegetarian
+Muhammad Idris
+A16CS0291
+KTC
+Vegetarian
+Ahmad Nuh
+A17CS0421
+K9&K10
+Vegetarian
+Muhammad Salahuddin
+A18CS0387
+KDSE
+Non-Vegetarian
+David Alonso
+A16CS0213
+KDOJ
+Non-Vegetarian
+Muhammad Idris
+A17CS0989
+KTHO
+Non-Vegetarian
+Siti Khadijah
+A16CS0231
+KTF
+Non-Vegetarian
+Muhammad Soleh
+A17CS0182
+KTC
+Non-Vegetarian
+Muhammad Ibrahim
+A16CS0763
+K9&K10
+Non-Vegetarian
+Muhhamad Ismail
+A16CS0763
+KDSE
+Vegetarian
+Muhammad Ishaq
+A17CS0390
+KTHO
+Non-Vegetarian
+Nurul Shafiqah
+A17CS0190
+KTF
+Vegetarian
+Muhammad Yaakub
+A16CS0814
+KTC
+Non-Vegetarian
+Muhammad Hassan
+A18CS0172
+K9&K10
+Non-Vegetarian
+Alvin Aguero
+A16CS0738
+KDSE
+Non-Vegetarian
+Muhammad Fateh Hussin
+A17CS0762
+KDOJ
+Non-Vegetarian
+Muhammad Douglas
+A17CS4511
+KDSE
+Vegetarian
+Murray
+A17CS5855
+KTDI
+Vegetarian
+Steven Strange
+A17CS1458
+K9&K10
+Non-Vegetarian
+Gulago
+A17CS6650
+KTC
+Non-Vegetarian
+Mary
+A17CS1477
+KTF
+Vegetarian
+Karrie
+A17CS0442
+KP
+Non-Vegetarian
+
+
+
+
+
+
